@@ -1,0 +1,4 @@
+$DATA1 SOURCE='HSPICE' VERSION='A-2008.03 32-BIT'
+.TITLE '******** digital electronics, template code********'
+ to_rise          to_fall          temper           alter#            
+  3.354e-09        2.612e-09         25.0000           1.0000         
